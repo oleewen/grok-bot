@@ -1,0 +1,36 @@
+{
+  "search_history": {
+    "key": "search_history",
+    "type": "data",
+    "value": [
+      {
+        "id": "2100049657645613109",
+        "name": "日志采集治理",
+        "groupName": "日志采集治理",
+        "title": "日志采集治理",
+        "type": 1,
+        "chatType": 1
+      },
+      {
+        "id": "1991687173296697422",
+        "name": "增值计费系统",
+        "groupName": "增值计费系统",
+        "title": "增值计费系统",
+        "type": 1,
+        "chatType": 1
+      },
+      {
+        "id": "u-dm-1",
+        "name": "张三",
+        "title": "张三",
+        "type": 0,
+        "chatType": 0
+      }
+    ]
+  },
+  "forwardMsgId_test1": {
+    "key": "forwardMsgId_test1",
+    "type": "data",
+    "value": "data:text/plain;charset=utf-8;base64,eyJtZXNzYWdlcyI6IFt7Im1zZ0lkIjogImZ3ZDEiLCAic2VuZGVySWQiOiAidTgiLCAiZXh0cmFQYXJhbXMiOiB7InNlbmRlck5hbWUiOiAi6L2s5Y+R5Lq6In0sICJjb250ZW50IjogIntcImxpc3RcIjogW3tcInR5cGVcIjogXCJ0ZXh0XCIsIFwidGV4dFwiOiBcIui9rOWPkee8k+WtmOmHjOeahOihpeWFhVwifV19IiwgImdyb3VwSWQiOiAiMjEwMDA0OTY1NzY0NTYxMzEwOSIsICJjaGF0VHlwZSI6IDEsICJzZW5kVGltZSI6IDE3Mjg4MDAwMDMwMDB9LCB7Im1zZ0lkIjogImZ3ZC1vdGhlciIsICJzZW5kZXJJZCI6ICJ1MSIsICJleHRyYVBhcmFtcyI6IHsic2VuZGVyTmFtZSI6ICLliKvnvqQifSwgImNvbnRlbnQiOiAie1wibGlzdFwiOiBbe1widHlwZVwiOiBcInRleHRcIiwgXCJ0ZXh0XCI6IFwi5LiN5bqU5Ye6546wXCJ9XX0iLCAiZ3JvdXBJZCI6ICJvdGhlciIsICJjaGF0VHlwZSI6IDEsICJzZW5kVGltZSI6IDE3Mjg4MDAwMDQwMDB9XX0="
+  }
+}

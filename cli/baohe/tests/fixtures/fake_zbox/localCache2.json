@@ -1,0 +1,24 @@
+{
+  "search_history": {
+    "key": "search_history",
+    "type": "data",
+    "value": [
+      {
+        "id": "2100049657645613109",
+        "name": "日志采集治理",
+        "groupName": "日志采集治理",
+        "title": "日志采集治理",
+        "type": 1,
+        "chatType": 1
+      },
+      {
+        "id": "9998887776665554443",
+        "name": "盘古&财务中心对接",
+        "groupName": "盘古&财务中心对接",
+        "title": "盘古&财务中心对接",
+        "type": 1,
+        "chatType": 1
+      }
+    ]
+  }
+}

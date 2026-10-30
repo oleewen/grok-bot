@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "baohe"
+version = "0.1.0"
+description = "Read-only CLI to extract 宝盒lite chat caches"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+baohe = "baohe.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["baohe*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
